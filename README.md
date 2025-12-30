@@ -54,19 +54,15 @@ BudgetManager/
 
 ## 📊 Data Storage
 
-All transaction data is stored in a CSV file with the following fields:
-
-Amount
-
-Type (Income / Expense)
-
-Date
-
-Notes
+**All transaction data is stored in a CSV file with the following fields:**
+1. Amount
+2. Type (Income / Expense)
+3. Date
+4. Notes
 
 The CSV format allows easy data manipulation and future scalability.
 
-## Learning Outcomes
+## 📌 Learning Outcomes
 
 1. Applied Object-Oriented Programming concepts
 
